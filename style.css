@@ -1,0 +1,82 @@
+.sedans{
+background-color:hsl(31, 77%, 52%);
+font-size:xx-large;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+color: #ffffff;
+text-align: center;
+width: 300px;
+height: 470px;
+display: inline-block;
+position: relative;
+left:100px;
+top: 50px;
+border-radius: 10px 0px 0px 10px ;
+}
+.SUV{
+background-color:hsl(184, 100%, 22%);
+font-size:xx-large;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+color: #ffffff;
+height: 470px;
+width: 300px;
+display: inline-block;
+position: relative;
+left:300px;
+bottom: 447px;
+}
+.Lux{
+background-color:hsl(179, 100%, 13%);
+font-size:xx-large;
+font-family: 'Yanone Kaffeesatz', sans-serif;
+color: #ffffff;
+margin-top: 50px;
+width: 300px;
+height: 470px;
+display: inline-block;
+position: relative;
+left: 300px;
+bottom: 497px;
+border-radius: 0px 10px 10px 0px ;
+}
+
+.body{
+color: #ffffff;
+font-family: sans-serif;
+font-size: medium;
+Margin: 50px 10px 20px 50px;
+align-items: center;
+text-align: left;
+}
+
+.icon{
+align-items:right;
+margin-top: 30px;
+position: relative;
+right: 70px;
+}
+
+.button{
+Margin: 50px 10px 20px 50px;
+align-items: center;
+width: 160px;
+height: 80px;
+}
+
+#image{
+align-items: center;
+}
+
+.SUVs{
+    margin-right: 115px;
+}
+ 
+.sedan{
+    margin-right: 95px;
+}
+ 
+.Luxury{
+    margin-right: 115px;
+}
+ 
+
+
